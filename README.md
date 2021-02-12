@@ -33,6 +33,7 @@ python color_detection.py -i <path of image file>
 ## Output
 
 It clearly identifies the color of the selected area in the image.
+![output](https://user-images.githubusercontent.com/77873477/107778883-9e04ae80-6d6a-11eb-94e2-1525717cea1b.png)
 
 
 ## Conclusion 
